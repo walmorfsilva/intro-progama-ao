@@ -1,0 +1,140 @@
+1passo1- receba o valor de a
+passo2- receba o valor de b
+passo3- inicie o C com valor zero
+passo4- se C for maior ou ingual a zero
+passo5- adicione B e C
+passo6- decremente A em um unidade
+passo7- valor de c é o resuldato alcançado
+fim
+
+
+
+2.passo1- insira primeirovalor como dividendo
+passo2- insira o segundovalor como divisor
+passo3- isnira terceiro valor com zero
+passo4- se o segundo valor for menor que o primeiro valor
+passo5- incremente com um
+passo6- subtraia o segundo valor do primeiro
+passo7- terceiro valor e o resultado do primeiro e segundo valor
+fim
+
+
+
+3. passo1- receba o valor1
+passo2- receba o valor2
+passo3- receba o valor3
+passo4- se valor 1 for maior que valor C
+passo5- insira valor2 em valor3
+passo6- incremente valor1 em valor2 uma unidade
+passo7- valor3 e o resultado
+fim
+
+
+4.passo1-receba o valor1
+passo2- receba o valor2
+passo3- receba o valor3
+passo4- se o valor1 for menor que o valor3
+passo5- adicione o valor1 em valor2
+passo6- incremente uma unidade no valor1
+passo7- resultado valor2
+fim
+
+
+
+5. passo1-receba o valor1
+passo2-receba o valor2
+passo3-receba o valor3
+passo4- se valor1 for maior que valor2 ou valor1 for maior que o valor3
+passo5- ou se o valor2 for maior que o valor3
+passo6- ou se o valor 3 for maior que o valor 1 
+passo7- ou se o valor 3 for maior que o valor2
+passo8- mostre o maior numero
+fim 
+
+
+
+6.passo1- recebe o valor
+passo2- se o valor dividido por 2 for igual a zero e o valor 1 for maior que zero
+passo3- mostre a mensagem informando se o numero e par e positivo
+fim
+
+
+7. passo1 insira os anos meses e dias
+passo2. receba a idade
+passo3- idade igual a a vezes meses
+passo4- idade vezes dias
+passo5- exibir idade e o dia
+fim
+
+
+8.passo1- passo1- A recebe a idade
+passo2- A tem que dividir
+passo3- idade equivalente a anos meses dias
+fim
+
+9. passo1- insira a primeira nota
+passo2- inisra a segunda nota
+passo3- inisa a terceira nota
+passo4- some os produtos das notas
+passo5- dividar os resultados das notas somadas pela soma dos pesos
+pass6- mostre a media e o resultado.
+fim
+
+10.passo1- evento recebe 3600 segundo
+passo2- divida 300 por 60 segundo que corresponderá a 60 minuto
+passo3- 60 minutos corresponderá a 4 hora
+passo4- exibir o resultado em horas minutos e segundos
+fim 
+
+
+11.passo1- informe o custo de fabricação
+passo2- informe  a porcentagem distribuida
+passo3- informe o imposto
+passo4- custo consumidor: ?
+passo5- subtraia a porcetagem pelo imposto
+passo6- some a porcetagem mais imposto
+passo7- custo comssumidor
+fim
+
+
+12. Passo1- insira as 3 notas
+passo 2- some cada nota
+passo 3- divida os resultados das três notas e divida por três
+passo 4- se a media alcansada for igual ou maior que 6
+passo 5- o aluno esta aprovado
+passo 6- se a nota for menor estará refporvado
+fim
+
+
+13. Passo 1-inicie com o valor A e com o valor de B
+Passo2- se for mutiplo de A são mutiplo
+passo3- se for mutiplo de B são mutiplo
+passo4- se não forem de mutiplo de A e nem de b
+passo5- não são mutiplos
+fim
+
+
+14. passo 1-informe a idade do nadador
+passo 2- Se a ididade do nanador A for igual a 5 ou maior ou igual 7 então se incluirá na categoria infantil.
+passo 3- Se a idade do nadador B for igual a 8 oumaior igual a 10 então se incluira na categoria infantil.
+passo 4- Se a idade do nadador C for igual a 11 ou maior igual a 13 então se incluirá na categoria juvenil.
+passo 5- Se a idade do nadador do nadador B for igual a 14 ou maior igual a 17 então se incluira na categoria juvenil.
+passo 6- Se a idade do nadador for maior que 18 então se incluira na categoria adulto.
+fim
+
+
+15. passo1-Insira o valor em real  a ser recebido.
+passo 2- Observe quantas notas de 100 incluira em um determinado valor.
+passo 3- repetiremos o mesmo processo do passo 2
+passo 4- Se não incluir nehuma nota no valor de 100 reais sega para o proximo passo.
+passo 5- Quantas notas de 100 se incluira em um valor atualizado pelo usuario.
+passo 6- Se não incluir o valor de 100 no valor digitado pelo usuario termine a sessão de notas.
+fim
+
+
+16. passo 1- Insira o tempo inicial e o tempo final em horas
+passo2- diminua o tempo inicial e final
+passo3- se os minutos forem maiores ou iguais subtraia.
+passo4- se for menores serão somados
+fim
+  
