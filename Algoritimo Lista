@@ -137,4 +137,29 @@ passo2- diminua o tempo inicial e final
 passo3- se os minutos forem maiores ou iguais subtraia.
 passo4- se for menores serão somados
 fim
-  
+sexta 10/02/2017
+ceasar /= "Granha"
+preline = "Jhon"
+viking = "Teresa"
+print (ceasar)
+print (preline)
+print (viking)
+############################
+
+print( "there/'s a snake in my boot!")
+
+print ("digite seu cadastro abaixo:\n nome:\n maticula:")
+
+### indice em string
+
+c= "gatos" [0]
+n= "Ryan" [3]
+print (c)
+print(n)
+
+parrot = "Azul Marinho"
+print(len(parrot))
+print(parrot.lower())
+print(parrot)
+print(parrot.upper())
+print(parrot)
